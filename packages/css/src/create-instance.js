@@ -1,5 +1,5 @@
 // @flow
-import createCache from '@emotion/cache'
+import { createCache } from '@emotion/cache'
 import { serializeStyles } from '@emotion/serialize'
 import {
   insertStyles,
